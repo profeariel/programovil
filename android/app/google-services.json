@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "124888658405",
+    "project_id": "dbpulperia",
+    "storage_bucket": "dbpulperia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124888658405:android:cfcf7869857e6923f97f0c",
+        "android_client_info": {
+          "package_name": "com.codingraph.pulpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124888658405-laonqqpheh7ob8bg9koe315ij9c217h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingraph.pulpe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "124888658405-mq0ta1hpf7buo1kn40nut2iiu2nlodgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDITO_-toCGLDobiR0PFw-l1vylBnMellA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124888658405-mq0ta1hpf7buo1kn40nut2iiu2nlodgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124888658405-qg6ssh6t5m52njo6vug5h24ptf6s1a7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingraph.pulpe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
